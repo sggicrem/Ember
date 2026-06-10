@@ -2,7 +2,6 @@
 Astro
 Merci
 Pixie
-PTG
 MintyTofu
 Angel
 Rupa
